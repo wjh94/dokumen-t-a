@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.4)  6 JAN 2017 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.4)  6 JAN 2017 18:15
 entering extended mode
 **./ws-ijait.tex
 (ws-ijait.tex
@@ -250,26 +250,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: map_data_acquisition.jpg Graphic file (type jpg)
 
 <use map_data_acquisition.jpg>
-Package pdftex.def Info: map_data_acquisition.jpg used on input line 127.
+Package pdftex.def Info: map_data_acquisition.jpg used on input line 128.
 (pdftex.def)             Requested size: 142.26378pt x 130.4231pt.
 
 <general_architecture.jpg, id=24, 221.32687pt x 693.34032pt>
 File: general_architecture.jpg Graphic file (type jpg)
 
 <use general_architecture.jpg>
-Package pdftex.def Info: general_architecture.jpg used on input line 138.
+Package pdftex.def Info: general_architecture.jpg used on input line 139.
 (pdftex.def)             Requested size: 72.65984pt x 227.62204pt.
- [4 <./map_data_acquisition.jpg>] [5 <./general_architecture.jpg>]
-Missing character: There is no Ô in font cmr10!
-Missing character: There is no Å in font cmr10!
-Missing character: There is no ¢ in font cmr10!
- <fig-3.jpg, id=33, 216.81pt x 446.41782pt>
+ [4 <./map_data_acquisition.jpg>]
+<fig-3.jpg, id=30, 216.81pt x 446.41782pt>
 File: fig-3.jpg Graphic file (type jpg)
  <use fig-3.jpg>
-Package pdftex.def Info: fig-3.jpg used on input line 185.
+Package pdftex.def Info: fig-3.jpg used on input line 152.
 (pdftex.def)             Requested size: 65.04349pt x 133.92638pt.
-
-[6 <./fig-3.jpg>]
+ [5 <./general_architecture.jpg> <./fig-3.jpg>] [6]
 Missing character: There is no Ã in font cmr9!
 Missing character: There is no Å in font cmr9!
 Missing character: There is no Ã in font cmr9!
@@ -296,7 +292,7 @@ Missing character: There is no ì in font cmr9!
 Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ì in font cmr9!
- [8] [9] (ws-ijait.aux) ) 
+ [8] (ws-ijait.aux) ) 
 Here is how much of TeX's memory you used:
  2690 strings out of 493333
  34035 string characters out of 3139195
@@ -304,26 +300,26 @@ Here is how much of TeX's memory you used:
  6189 multiletter control sequences out of 15000+200000
  10448 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,7n,26p,794b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-bxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ws-ijait.pdf (9 pages, 414921 bytes).
+ 40i,6n,26p,794b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb>
+Output written on ws-ijait.pdf (8 pages, 413875 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -76,10 +76,11 @@ Hammerstrom\cite{17} defines artificial neural networks as a computational struc
 
 The two main operations performed by the artificial neural network is training and testing operation [18]. Training a neural network is needed once the architecture of the network has been constructed [19]. Meanwhile, the testing process is performed after training process is done.
 
-Training process is the process where the neural network constructed for the application is given the random input weights. According to \cite{20}, the training process of the artificial neural network is classified to two methods, namely supervised training and unsupervised training. Supervised training is done to the artificial neural network by giving the network sample data with targeted result. Meanwhile, to perform unsupervised training on an artificial neural network, a sample data is processed by the network, without a finite final result.
+Training process is the process where the neural network constructed for the application is given the random input weights. According to van Heeswijk\cite{20}, the training process of the artificial neural network is classified to two methods, namely supervised training and unsupervised training. Supervised training is done to the artificial neural network by giving the network sample data with targeted result. Meanwhile, to perform unsupervised training on an artificial neural network, a sample data is processed by the network, without a finite final result.
 
 \subsection{Extreme learning machine (ELM)}
-According to Sun \textit{et al.} [21], extreme learning machines (ELM) refers to a learning method applied in artificial neural networks. The architecture of neural network utilized in extreme learning machine is single hidden layer feedforward neural networks.
+
+According to Sun \textit{et al.}\cite{21} , extreme learning machines (ELM) refers to a learning method applied in artificial neural networks. The architecture of neural network utilized in extreme learning machine is single hidden layer feedforward neural networks.
 
 Extreme learning machines is proposed by Huang \textit{et al.}\cite{12} to increase the calculation speed of artificial neural networks, by randomizing the hidden layer. They stated that the feedforward neural network utilizes slow gradient based learning, which results in longer computational time. The randomization of the hidden layer results in faster computational speed, along with higher processing result accuracy.
 
@@ -121,7 +122,7 @@ This section provides explanation about the methodology used in the research, in
 
 \subsection{Utilized Data}
 
-This research utilizes water quality data obtained by Rahmat et al.\cite{16}. The water quality data includes physical and chemical parameters recorded in subsequent time. The data is obtained in different locations, as shown in .
+This research utilizes water quality data obtained by Rahmat et al.\cite{16}. The water quality data includes physical and chemical parameters recorded in subsequent time. The data is obtained in different locations, as shown in \eqref{Fig. 1}.
 
 \begin{figure}[th]
 \centerline{\includegraphics[width=5cm]{map_data_acquisition.jpg}}
@@ -147,6 +148,11 @@ The general architecture of the application consists of six steps, which are exp
 
 \item Data normalization: The water quality data is recorded by Rahmat {\it et al.}\cite{16} by the format shown by Fig 3. The recorded values are separated by semicolon sign, thus needs rearrangement and normalization. According to Patro {\it et al.}\cite{22} , normalization is a pre-processing stage of the problem sets, by which the data will be scaled by the certain range, in order to enable the algorithm to work.
 
+\begin{figure}
+\centerline{\includegraphics[scale=0.3]{fig-3.jpg}}
+\caption{Initial Data Structure\cite{16}}\label{Fig. 3}
+\end{figure}
+
 \item Define the number of hidden neuron: This process will be performed after data normalization process is done. According to Heaton\cite{23} , the number of hidden neuron has to be defined by using following rules:
 
 \begin{itemize}
@@ -162,9 +168,9 @@ Various amount of hidden neuron will be implemented in this research for compara
 \item Training process: The training process is a process performed in artificial neural network implementation. The training process is performed by using extreme learning machine in the following steps:
 
 \begin{itemlist}
-\item Initialize the hidden layer matrix H, consisting of input weights and neuron biases;
-\item Calculate the hidden layer output from matrix H;
-\item Calculate output weight matrix , which is done according to (4).
+\item Initialize the hidden layer matrix $H$, consisting of input weights and neuron biases;
+\item Calculate the hidden layer output from matrix $H$;
+\item Calculate output weight matrix $\beta$, which is done according to (4).
 \end{itemlist}
 
 \item Testing process: The testing process is performed after the training process is done. The testing process is performed to obtain the result of training process.
@@ -173,7 +179,7 @@ Various amount of hidden neuron will be implemented in this research for compara
 
 \end{enumerate}
 
-The output of the methodology in this research is a graph representing the result of prediction process by the extreme learning machine, followed by the root mean square error of the result.
+The output of the methodology in this research is a graph representing the result of prediction process by the extreme learning machine, followed by the root mean square error and the calculation time of the result.
 
 \section{Experiment and Results}
 
@@ -181,16 +187,11 @@ The process of water quality prediction is done through combination of Python an
 
 \subsection{Data Normalization}
 
-\begin{figure}
-\centerline{\includegraphics[scale=0.3]{fig-3.jpg}}
-\caption{Initial Data Structure\cite{16}}\label{Fig. 3}
-\end{figure}
-
-The data normalization process is done through Python environment. The data acquired by Rahmat et al.\cite{16} has the structure shown in Fig 3. The initial data structure is not suitable to be processed with extreme learning machine, thus requiring normalization process.
+The data normalization process is done through Python environment. The initial data structure is not suitable to be processed with extreme learning machine, thus requiring normalization process.
 
 Before the data is normalized, the initial dataset have to be filtered by each row, to ensure that the value of the recorded data is a valid numeric data. The result of the filtering process is a new dataset with valid numeric value.
 
-The normalization process is performed by using min-max normalization\cite{22}, thus resulting in a dataset with value ranging from -1 to 1, according to \eqref{Eq. 5}:
+The normalization process is performed by using min-max normalization\cite{22} , thus resulting in a dataset with value ranging from -1 to 1, according to \eqref{Eq. 5}:
 
 \begin{equation}
 A' = \frac{A - A_{min}}{A_{max} - A_{min}} * (D - C) + C\label{Eq. 5}

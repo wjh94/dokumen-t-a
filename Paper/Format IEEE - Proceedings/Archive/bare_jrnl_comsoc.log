@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.4)  6 JAN 2017 13:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.1.4)  6 JAN 2017 18:21
 entering extended mode
 **./bare_jrnl_comsoc.tex
 (bare_jrnl_comsoc.tex
@@ -124,6 +124,45 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip44
@@ -134,51 +173,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen126
+\@emptytoks=\toks16
+\ex@=\dimen128
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen127
+\pmbraise@=\dimen129
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count94
+\inf@bad=\count95
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count95
-\leftroot@=\count96
+\uproot@=\count96
+\leftroot@=\count97
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count97
-\DOTSCASE@=\count98
+\classnum@=\count98
+\DOTSCASE@=\count99
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen128
+\big@size=\dimen130
 LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-\macc@depth=\count99
-\c@MaxMatrixCols=\count100
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
 \dotsspace@=\muskip10
-\c@parentequation=\count101
-\dspbrk@lvl=\count102
-\tag@help=\toks16
-\row@=\count103
-\column@=\count104
-\maxfields@=\count105
-\andhelp@=\toks17
-\eqnshift@=\dimen129
-\alignsep@=\dimen130
-\tagshift@=\dimen131
-\tagwidth@=\dimen132
-\totwidth@=\dimen133
-\lineht@=\dimen134
-\@envbody=\toks18
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks17
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks18
+\eqnshift@=\dimen131
+\alignsep@=\dimen132
+\tagshift@=\dimen133
+\tagwidth@=\dimen134
+\totwidth@=\dimen135
+\lineht@=\dimen136
+\@envbody=\toks19
 \multlinegap=\skip45
 \multlinetaggap=\skip46
-\mathdisplay@stack=\toks19
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
@@ -198,15 +237,14 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks20
-\XKV@tempa@toks=\toks21
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
-\XKV@depth=\count106
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count107
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\binhex\binhex.tex")
-\tx@Isdigit=\count107
+\tx@Isdigit=\count108
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 151.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 151.
@@ -310,137 +348,300 @@ LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 533.
 LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 534.
 LaTeX Info: Redefining \not on input line 2094.
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count109
+\c@ALC@line=\count110
+\c@ALC@rem=\count111
+\c@ALC@depth=\count112
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
 (bare_jrnl_comsoc.aux)
 \openout1 = `bare_jrnl_comsoc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 380.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 382.
 LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 38
-0.
+2.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\omlntxmi.fd"
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 380.
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 380.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 380
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 382.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 382.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 382
 .
  ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxexa.fd"
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 380.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 382.
 LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 38
-0.
+2.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmsntxsy.fd"
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 380.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 380.
+LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 382.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 3
-80.
+82.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\lmxntxexx.fd"
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 380.
+LaTeX Font Info:    ... okay on input line 382.
 
 -- Verifying Times compatible math font.
 -- newtxmath loaded, OK.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 380.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
 -- Lines per column: 58 (exact).
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 4
-68.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen137
+\scratchbox=\box30
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen138
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 5
+26.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\ot1ntxtlf.fd"
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 468
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 526
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxmia.fd"
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 468
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 526
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsym.fd"
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 468
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 526
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\newtx\untxsyc.fd"
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-)
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7.3> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 468.
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
+]
+<map_data_acquisition.jpg, id=9, 471.26062pt x 431.36156pt>
+File: map_data_acquisition.jpg Graphic file (type jpg)
 
-] (bare_jrnl_comsoc.aux) ) 
+<use map_data_acquisition.jpg>
+Package pdftex.def Info: map_data_acquisition.jpg used on input line 579.
+(pdftex.def)             Requested size: 94.25044pt x 86.27078pt.
+
+<general_architecture.jpg, id=10, 221.32687pt x 693.34032pt>
+File: general_architecture.jpg Graphic file (type jpg)
+
+<use general_architecture.jpg>
+Package pdftex.def Info: general_architecture.jpg used on input line 590.
+(pdftex.def)             Requested size: 44.26457pt x 138.6656pt.
+ [2 <./map_data_acquisition.jpg> <./general_architecture.jpg>]
+
+LaTeX Warning: Citation `22' on page 3 undefined on input line 639.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 920--925
+[]\T1/ptm/m/n/8 E. Re-ing-nold and J. Nightin-gale, Train-ing an ar-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--925
+\T1/ptm/m/n/8 fi-cial neu-ral net-work, in \T1/ptm/m/it/8 Ar-ti-fi-cial Neu-ra
+l Net-works
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--925
+\T1/ptm/m/it/8 Tech-nol-ogy\T1/ptm/m/n/8 , Uni-ver-sity of Toronto. [On-line]. 
+Avail-able:
+ []
+
+
+Overfull \hbox (4.22124pt too wide) in paragraph at lines 920--925
+\T1/ptm/m/n/8 http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neur
+al3.html.
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 934--935
+[]\T1/ptm/m/n/8 Patro, G. S. Kr-ishna, and K. Ku-mar, Ti-tle: Nor-mal-iza-tion
+:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 934--935
+\T1/ptm/m/n/8 A Pre-pro-cess-ing stage, 2015. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+[]\T1/ptm/m/n/8 L. Dorst, Neu-ral ac-ti-va-tion func-tions, in \T1/ptm/m/it/8
+ Ap-pli-ca-tions of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+\T1/ptm/m/it/8 ba-sic math-e-mat-ics in Com-puter Sci-ence\T1/ptm/m/n/8 . [On-l
+ine]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+\T1/ptm/m/n/8 https://staff.science.uva.nl/l.dorst/math/sigma.pdf. Ac-cessed: N
+ov.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+[]\T1/ptm/m/n/8 Q.-Y. Zhu and G.-B. Huang, Ex-treme learn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+\T1/ptm/m/n/8 ing ma-chines, 2013. [On-line]. Avail-able:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+\T1/ptm/m/n/8 http://www.ntu.edu.sg/home/egbhuang/elm_random_hidden_nodes.html.
+
+ []
+
+[4
+
+] (bare_jrnl_comsoc.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3412 strings out of 493333
- 45704 string characters out of 3139195
- 98732 words of memory out of 3000000
- 6911 multiletter control sequences out of 15000+200000
- 144259 words of font info for 164 fonts, out of 3000000 for 9000
+ 4835 strings out of 493333
+ 66058 string characters out of 3139195
+ 129958 words of memory out of 3000000
+ 8235 multiletter control sequences out of 15000+200000
+ 136770 words of font info for 167 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 27i,8n,22p,404b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.
-enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
-imes/utmri8a.pfb>
-Output written on bare_jrnl_comsoc.pdf (1 page, 58712 bytes).
+ 40i,8n,37p,802b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{C:/Progra
+m Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/tex-gyre/qtmr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/newtx/rntxmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/newtx/rntxm
+i7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxmi.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxr.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/newtx/txexs.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/txfonts/txsyb.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+newtx/txsys.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on bare_jrnl_comsoc.pdf (4 pages, 255187 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
