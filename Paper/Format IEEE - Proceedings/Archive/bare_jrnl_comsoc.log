@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  8 JAN 2017 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  11 JAN 2017 19:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,77 +502,80 @@ File: map_data_acquisition.jpg Graphic file (type jpg)
 Package pdftex.def Info: map_data_acquisition.jpg used on input line 583.
 (pdftex.def)             Requested size: 94.25044pt x 86.27078pt.
 
-<general_architecture.jpg, id=11, 221.32687pt x 693.34032pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./map_data_acquisition.jpg>]
+<general_architecture.jpg, id=22, 221.32687pt x 693.34032pt>
 File: general_architecture.jpg Graphic file (type jpg)
 
 <use general_architecture.jpg>
-Package pdftex.def Info: general_architecture.jpg used on input line 594.
-(pdftex.def)             Requested size: 44.26457pt x 138.6656pt.
- <fig-3.jpg, id=12, 216.81pt x 446.41782pt>
+Package pdftex.def Info: general_architecture.jpg used on input line 596.
+(pdftex.def)             Requested size: 66.39856pt x 208.0037pt.
+ <fig-3.jpg, id=23, 216.81pt x 446.41782pt>
 File: fig-3.jpg Graphic file (type jpg)
 
 <use fig-3.jpg>
-Package pdftex.def Info: fig-3.jpg used on input line 607.
-(pdftex.def)             Requested size: 43.36122pt x 89.28197pt.
- [2 <./map_data_acquisition.jpg>]
-<fig-4.jpg, id=24, 661.72218pt x 542.77782pt>
+Package pdftex.def Info: fig-3.jpg used on input line 609.
+(pdftex.def)             Requested size: 113.81102pt x 234.33879pt.
+ [3 <./general_architecture.jpg> <./fig-3.jpg>]
+<fig-4.jpg, id=27, 661.72218pt x 542.77782pt>
 File: fig-4.jpg Graphic file (type jpg)
  <use fig-4.jpg>
-Package pdftex.def Info: fig-4.jpg used on input line 664.
-(pdftex.def)             Requested size: 132.34209pt x 108.55363pt.
- [3 <./general_architecture.jpg> <./fig-3.jpg> <./fig-4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 947--953
+Package pdftex.def Info: fig-4.jpg used on input line 666.
+(pdftex.def)             Requested size: 198.51819pt x 162.8346pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--952
 []\T1/ptm/m/n/8 E. Re-ing-nold and J. Nightin-gale, ^^PTrain-ing an ar-ti-fi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 947--953
+Underfull \hbox (badness 10000) in paragraph at lines 946--952
 \T1/ptm/m/n/8 cial neu-ral net-work,^^Q in \T1/ptm/m/it/8 Ar-ti-fi-cial Neu-ral
  Net-works Tech-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 947--953
+Underfull \hbox (badness 10000) in paragraph at lines 946--952
 \T1/ptm/m/it/8 nol-ogy\T1/ptm/m/n/8 , Uni-ver-sity of Toronto. [On-line]. Avail
 -able:
  []
 
 
-Overfull \hbox (4.22124pt too wide) in paragraph at lines 947--953
+Overfull \hbox (4.22124pt too wide) in paragraph at lines 946--952
 \T1/ptm/m/n/8 http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neur
 al3.html.
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 962--963
+Underfull \hbox (badness 6592) in paragraph at lines 961--962
 []\T1/ptm/m/n/8 Patro, G. S. Kr-ishna, and K. Ku-mar, ^^PTi-tle: Nor-mal-iza-ti
 on:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 962--963
+Underfull \hbox (badness 10000) in paragraph at lines 961--962
 \T1/ptm/m/n/8 A Pre-pro-cess-ing stage,^^Q 2015. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 967--968
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
 []\T1/ptm/m/n/8 L. Dorst, ^^PNeu-ral ac-ti-va-tion func-tions,^^Q in \T1/ptm/m/
 it/8 Ap-pli-ca-tions of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 967--968
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
 \T1/ptm/m/it/8 ba-sic math-e-mat-ics in Com-puter Sci-ence\T1/ptm/m/n/8 . [On-l
 ine]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 967--968
+Underfull \hbox (badness 10000) in paragraph at lines 966--967
 \T1/ptm/m/n/8 https://staff.science.uva.nl/l.dorst/math/sigma.pdf. Ac-cessed: N
 ov.
  []
 
-
+[4 <./fig-4.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 969--970
 []\T1/ptm/m/n/8 Q.-Y. Zhu and G.-B. Huang, ^^PEx-treme learn-
  []
@@ -588,30 +591,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 969--970
 
  []
 
-[4] (./bare_jrnl_comsoc.aux) ) 
+[5
+
+] (./bare_jrnl_comsoc.aux) ) 
 Here is how much of TeX's memory you used:
  4664 strings out of 493014
  64356 string characters out of 6137002
- 132716 words of memory out of 5000000
+ 130716 words of memory out of 5000000
  8077 multiletter control sequences out of 15000+600000
  134624 words of font info for 166 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 38i,9n,35p,801b,375s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2016/texmf-dist/fonts/enc/dvips/newtx
-/ntx-ot1-tlf.enc}{c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/te
-xlive/2016/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2016/tex
-mf-dist/fonts/type1/public/newtx/rntxmi.pfb><c:/texlive/2016/texmf-dist/fonts/t
-ype1/public/newtx/rntxmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/tx
-fonts/rtxmi.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb
-><c:/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/20
-16/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/tim
-es/utmbi8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:
-/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_jrnl_comsoc.pdf (4 pages, 362444 bytes).
+ 38i,9n,35p,801b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2016/texmf-dist/fonts/enc/dvips/newtx/n
+tx-ot1-tlf.enc}{c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texl
+ive/2016/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2016/texmf
+-dist/fonts/type1/public/newtx/rntxmi.pfb><c:/texlive/2016/texmf-dist/fonts/typ
+e1/public/newtx/rntxmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/txfo
+nts/rtxmi.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb><
+c:/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/2016
+/texmf-dist/fonts/type1/public/txfonts/txsy.pfb><c:/texlive/2016/texmf-dist/fon
+ts/type1/urw/times/utmb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times
+/utmbi8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/t
+exlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on bare_jrnl_comsoc.pdf (5 pages, 362938 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
