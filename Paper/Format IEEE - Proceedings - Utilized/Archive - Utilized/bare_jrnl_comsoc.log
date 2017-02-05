@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  11 JAN 2017 19:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  3 FEB 2017 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -158,6 +158,69 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
+(c:/texlive/2016/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+)
+\XKV@depth=\count95
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2016/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(c:/texlive/2016/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box28
+)
+\tc@llx=\dimen128
+\tc@lly=\dimen129
+\tc@urx=\dimen130
+\tc@ury=\dimen131
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(c:/texlive/2016/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen132
+\adjbox@Height=\dimen133
+\adjbox@Depth=\dimen134
+\adjbox@Totalheight=\dimen135
+
+(c:/texlive/2016/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count96
+)
+(c:/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box29
+\sift@deathcycles=\count97
+\@vwid@loff=\dimen136
+\@vwid@roff=\dimen137
+))
+(c:/texlive/2016/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(c:/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks18
+\float@box=\box30
+\@float@everytoks=\toks19
+\@floatcapt=\box31
+)
 (c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -165,6 +228,10 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
+(c:/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count99
+)
 (c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip44
@@ -175,51 +242,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen128
+\@emptytoks=\toks20
+\ex@=\dimen138
 ))
 (c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen129
+\pmbraise@=\dimen139
 )
 (c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count95
+\inf@bad=\count100
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count96
-\leftroot@=\count97
+\uproot@=\count101
+\leftroot@=\count102
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count98
-\DOTSCASE@=\count99
+\classnum@=\count103
+\DOTSCASE@=\count104
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
-\big@size=\dimen130
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen140
 LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-\macc@depth=\count100
-\c@MaxMatrixCols=\count101
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
 \dotsspace@=\muskip10
-\c@parentequation=\count102
-\dspbrk@lvl=\count103
-\tag@help=\toks17
-\row@=\count104
-\column@=\count105
-\maxfields@=\count106
-\andhelp@=\toks18
-\eqnshift@=\dimen131
-\alignsep@=\dimen132
-\tagshift@=\dimen133
-\tagwidth@=\dimen134
-\totwidth@=\dimen135
-\lineht@=\dimen136
-\@envbody=\toks19
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks21
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks22
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks23
 \multlinegap=\skip45
 \multlinetaggap=\skip46
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
@@ -234,19 +301,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks21
-\XKV@tempa@toks=\toks22
-)
-\XKV@depth=\count107
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
 (c:/texlive/2016/texmf-dist/tex/generic/kastrup/binhex.tex)
-\tx@Isdigit=\count108
+\tx@Isdigit=\count112
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 137.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/ntxtlf/m/n on input line 137.
@@ -328,103 +384,103 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 (c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@ALC@unique=\count109
-\c@ALC@line=\count110
-\c@ALC@rem=\count111
-\c@ALC@depth=\count112
+\c@ALC@unique=\count113
+\c@ALC@line=\count114
+\c@ALC@rem=\count115
+\c@ALC@depth=\count116
 \ALC@tlm=\skip47
 \algorithmicindent=\skip48
 ) (./bare_jrnl_comsoc.aux)
 \openout1 = `bare_jrnl_comsoc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 382.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 38
-2.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 314.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 31
+4.
  (c:/texlive/2016/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 382.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 382.
-LaTeX Font Info:    ... okay on input line 382.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 382.
-LaTeX Font Info:    ... okay on input line 382.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 382.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 38
-2.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 314.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 31
+4.
 
 (c:/texlive/2016/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 382.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 382.
-LaTeX Font Info:    ... okay on input line 382.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 382.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 382
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 314.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 314
 .
 
 (c:/texlive/2016/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 382.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 382.
-LaTeX Font Info:    ... okay on input line 382.
+LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 314.
+LaTeX Font Info:    ... okay on input line 314.
 
 -- Verifying Times compatible math font.
 -- newtxmath loaded, OK.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 382.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
 -- Lines per column: 58 (exact).
 (c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count113
-\scratchdimen=\dimen137
-\scratchbox=\box30
-\nofMPsegments=\count114
-\nofMParguments=\count115
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count116
-\MPscratchDim=\dimen138
-\MPnumerator=\count117
-\makeMPintoPDFobject=\count118
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count117
+\scratchdimen=\dimen147
+\scratchbox=\box34
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen148
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks26
 ) (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -467,126 +523,140 @@ G,.JBIG2,.JB2,.eps]
 (c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-))
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 5
-30.
+)) [1{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 4
+75.
 
 (c:/texlive/2016/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 530
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 475
 .
 
 (c:/texlive/2016/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 530
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 475
 .
 
 (c:/texlive/2016/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 530
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 475
 .
 
 (c:/texlive/2016/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
-) [1{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
+)
 <map_data_acquisition.jpg, id=10, 471.26062pt x 431.36156pt>
 File: map_data_acquisition.jpg Graphic file (type jpg)
 
 <use map_data_acquisition.jpg>
-Package pdftex.def Info: map_data_acquisition.jpg used on input line 583.
+Package pdftex.def Info: map_data_acquisition.jpg used on input line 515.
 (pdftex.def)             Requested size: 94.25044pt x 86.27078pt.
+Package epstopdf Info: Source file: <ArsitekturUmum-Redesigned.eps>
+(epstopdf)                    date: 2017-01-24 18:57:06
+(epstopdf)                    size: 178019 bytes
+(epstopdf)             Output file: <ArsitekturUmum-Redesigned-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-02-02 19:31:43
+(epstopdf)                    size: 76621 bytes
+(epstopdf)             Command: <repstopdf --outfile=ArsitekturUmum-Redesigned-
+eps-converted-to.pdf ArsitekturUmum-Redesigned.eps>
+(epstopdf)             \includegraphics on input line 526.
+Package epstopdf Info: Output file is already uptodate.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./map_data_acquisition.jpg>]
-<general_architecture.jpg, id=22, 221.32687pt x 693.34032pt>
-File: general_architecture.jpg Graphic file (type jpg)
-
-<use general_architecture.jpg>
-Package pdftex.def Info: general_architecture.jpg used on input line 596.
-(pdftex.def)             Requested size: 66.39856pt x 208.0037pt.
- <fig-3.jpg, id=23, 216.81pt x 446.41782pt>
+<ArsitekturUmum-Redesigned-eps-converted-to.pdf, id=11, 398.48875pt x 680.5425p
+t>
+File: ArsitekturUmum-Redesigned-eps-converted-to.pdf Graphic file (type pdf)
+ <use ArsitekturUmum-Redesigned-eps-converted-to.pdf>
+Package pdftex.def Info: ArsitekturUmum-Redesigned-eps-converted-to.pdf used on
+ input line 526.
+(pdftex.def)             Requested size: 159.39267pt x 272.21217pt.
+ [2 <./map_data_acquisition.jpg>] <fig-3.jpg, id=23, 216.81pt x 446.41782pt>
 File: fig-3.jpg Graphic file (type jpg)
-
-<use fig-3.jpg>
-Package pdftex.def Info: fig-3.jpg used on input line 609.
+ <use fig-3.jpg>
+Package pdftex.def Info: fig-3.jpg used on input line 552.
 (pdftex.def)             Requested size: 113.81102pt x 234.33879pt.
- [3 <./general_architecture.jpg> <./fig-3.jpg>]
-<fig-4.jpg, id=27, 661.72218pt x 542.77782pt>
+
+<fig-4.jpg, id=24, 661.72218pt x 542.77782pt>
 File: fig-4.jpg Graphic file (type jpg)
  <use fig-4.jpg>
-Package pdftex.def Info: fig-4.jpg used on input line 666.
+Package pdftex.def Info: fig-4.jpg used on input line 591.
 (pdftex.def)             Requested size: 198.51819pt x 162.8346pt.
+ [3 <./ArsitekturUmum-Redesigned-eps-converted-to.pdf> <./fig-3.jpg>]
+<fig-5.jpg, id=100, 603.75563pt x 496.10344pt>
+File: fig-5.jpg Graphic file (type jpg)
+ <use fig-5.jpg>
+Package pdftex.def Info: fig-5.jpg used on input line 600.
+(pdftex.def)             Requested size: 150.93854pt x 124.02554pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 946--952
+Underfull \hbox (badness 10000) in paragraph at lines 908--914
 []\T1/ptm/m/n/8 E. Re-ing-nold and J. Nightin-gale, ^^PTrain-ing an ar-ti-fi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 946--952
+Underfull \hbox (badness 10000) in paragraph at lines 908--914
 \T1/ptm/m/n/8 cial neu-ral net-work,^^Q in \T1/ptm/m/it/8 Ar-ti-fi-cial Neu-ral
  Net-works Tech-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 946--952
+Underfull \hbox (badness 10000) in paragraph at lines 908--914
 \T1/ptm/m/it/8 nol-ogy\T1/ptm/m/n/8 , Uni-ver-sity of Toronto. [On-line]. Avail
 -able:
  []
 
 
-Overfull \hbox (4.22124pt too wide) in paragraph at lines 946--952
+Overfull \hbox (4.22124pt too wide) in paragraph at lines 908--914
 \T1/ptm/m/n/8 http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neur
 al3.html.
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 961--962
+Underfull \hbox (badness 6592) in paragraph at lines 923--924
 []\T1/ptm/m/n/8 Patro, G. S. Kr-ishna, and K. Ku-mar, ^^PTi-tle: Nor-mal-iza-ti
 on:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 961--962
+Underfull \hbox (badness 10000) in paragraph at lines 923--924
 \T1/ptm/m/n/8 A Pre-pro-cess-ing stage,^^Q 2015. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
 []\T1/ptm/m/n/8 L. Dorst, ^^PNeu-ral ac-ti-va-tion func-tions,^^Q in \T1/ptm/m/
 it/8 Ap-pli-ca-tions of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
 \T1/ptm/m/it/8 ba-sic math-e-mat-ics in Com-puter Sci-ence\T1/ptm/m/n/8 . [On-l
 ine]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
 \T1/ptm/m/n/8 https://staff.science.uva.nl/l.dorst/math/sigma.pdf. Ac-cessed: N
 ov.
  []
 
-[4 <./fig-4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 969--970
+[4 <./fig-4.jpg> <./fig-5.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
 []\T1/ptm/m/n/8 Q.-Y. Zhu and G.-B. Huang, ^^PEx-treme learn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 969--970
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
 \T1/ptm/m/n/8 ing ma-chines,^^Q 2013. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 969--970
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
 \T1/ptm/m/n/8 http://www.ntu.edu.sg/home/egbhuang/elm_random_hidden_nodes.html.
 
  []
@@ -595,13 +665,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 969--970
 
 ] (./bare_jrnl_comsoc.aux) ) 
 Here is how much of TeX's memory you used:
- 4664 strings out of 493014
- 64356 string characters out of 6137002
- 130716 words of memory out of 5000000
- 8077 multiletter control sequences out of 15000+600000
- 134624 words of font info for 166 fonts, out of 8000000 for 9000
+ 5663 strings out of 493014
+ 79052 string characters out of 6137002
+ 149617 words of memory out of 5000000
+ 9039 multiletter control sequences out of 15000+600000
+ 138687 words of font info for 180 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 38i,9n,35p,801b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,7n,35p,801b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/newtx/n
 tx-ot1-tlf.enc}{c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texl
 ive/2016/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2016/texmf
@@ -613,10 +683,10 @@ c:/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/2016
 ts/type1/urw/times/utmb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times
 /utmbi8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/t
 exlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_jrnl_comsoc.pdf (5 pages, 362938 bytes).
+Output written on bare_jrnl_comsoc.pdf (5 pages, 449776 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
