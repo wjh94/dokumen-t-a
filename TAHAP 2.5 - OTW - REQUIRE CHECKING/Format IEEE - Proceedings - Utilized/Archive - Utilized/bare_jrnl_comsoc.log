@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  3 FEB 2017 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  7 FEB 2017 20:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -557,106 +557,109 @@ File: map_data_acquisition.jpg Graphic file (type jpg)
 <use map_data_acquisition.jpg>
 Package pdftex.def Info: map_data_acquisition.jpg used on input line 515.
 (pdftex.def)             Requested size: 94.25044pt x 86.27078pt.
-Package epstopdf Info: Source file: <ArsitekturUmum-Redesigned.eps>
-(epstopdf)                    date: 2017-01-24 18:57:06
-(epstopdf)                    size: 178019 bytes
-(epstopdf)             Output file: <ArsitekturUmum-Redesigned-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2017-02-02 19:31:43
-(epstopdf)                    size: 76621 bytes
+Package epstopdf Info: Source file: <ArsitekturUmum-Redesigned-Remastered.eps>
+(epstopdf)                    date: 2017-02-07 19:39:02
+(epstopdf)                    size: 86533 bytes
+(epstopdf)             Output file: <ArsitekturUmum-Redesigned-Remastered-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2017-02-07 19:39:37
+(epstopdf)                    size: 25564 bytes
 (epstopdf)             Command: <repstopdf --outfile=ArsitekturUmum-Redesigned-
-eps-converted-to.pdf ArsitekturUmum-Redesigned.eps>
+Remastered-eps-converted-to.pdf ArsitekturUmum-Redesigned-Remastered.eps>
 (epstopdf)             \includegraphics on input line 526.
 Package epstopdf Info: Output file is already uptodate.
 
-<ArsitekturUmum-Redesigned-eps-converted-to.pdf, id=11, 398.48875pt x 680.5425p
-t>
-File: ArsitekturUmum-Redesigned-eps-converted-to.pdf Graphic file (type pdf)
- <use ArsitekturUmum-Redesigned-eps-converted-to.pdf>
-Package pdftex.def Info: ArsitekturUmum-Redesigned-eps-converted-to.pdf used on
- input line 526.
-(pdftex.def)             Requested size: 159.39267pt x 272.21217pt.
- [2 <./map_data_acquisition.jpg>] <fig-3.jpg, id=23, 216.81pt x 446.41782pt>
+<ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf, id=11, 415.5525pt x
+ 599.23875pt>
+File: ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf Graphic file (t
+ype pdf)
+ <use ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf>
+Package pdftex.def Info: ArsitekturUmum-Redesigned-Remastered-eps-converted-to.
+pdf used on input line 526.
+(pdftex.def)             Requested size: 201.59978pt x 170.71167pt.
+
+[2 <./map_data_acquisition.jpg> <./ArsitekturUmum-Redesigned-Remastered-eps-con
+verted-to.pdf>] <fig-3.jpg, id=51, 216.81pt x 446.41782pt>
 File: fig-3.jpg Graphic file (type jpg)
  <use fig-3.jpg>
-Package pdftex.def Info: fig-3.jpg used on input line 552.
+Package pdftex.def Info: fig-3.jpg used on input line 539.
 (pdftex.def)             Requested size: 113.81102pt x 234.33879pt.
 
-<fig-4.jpg, id=24, 661.72218pt x 542.77782pt>
+[3 <./fig-3.jpg>] <fig-4.jpg, id=55, 661.72218pt x 542.77782pt>
 File: fig-4.jpg Graphic file (type jpg)
- <use fig-4.jpg>
-Package pdftex.def Info: fig-4.jpg used on input line 591.
-(pdftex.def)             Requested size: 198.51819pt x 162.8346pt.
- [3 <./ArsitekturUmum-Redesigned-eps-converted-to.pdf> <./fig-3.jpg>]
-<fig-5.jpg, id=100, 603.75563pt x 496.10344pt>
+
+<use fig-4.jpg>
+Package pdftex.def Info: fig-4.jpg used on input line 594.
+(pdftex.def)             Requested size: 201.59778pt x 85.35544pt.
+ <fig-5.jpg, id=56, 603.75563pt x 496.10344pt>
 File: fig-5.jpg Graphic file (type jpg)
  <use fig-5.jpg>
-Package pdftex.def Info: fig-5.jpg used on input line 600.
+Package pdftex.def Info: fig-5.jpg used on input line 603.
 (pdftex.def)             Requested size: 150.93854pt x 124.02554pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--914
+Underfull \hbox (badness 10000) in paragraph at lines 906--912
 []\T1/ptm/m/n/8 E. Re-ing-nold and J. Nightin-gale, ^^PTrain-ing an ar-ti-fi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--914
+Underfull \hbox (badness 10000) in paragraph at lines 906--912
 \T1/ptm/m/n/8 cial neu-ral net-work,^^Q in \T1/ptm/m/it/8 Ar-ti-fi-cial Neu-ral
  Net-works Tech-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--914
+Underfull \hbox (badness 10000) in paragraph at lines 906--912
 \T1/ptm/m/it/8 nol-ogy\T1/ptm/m/n/8 , Uni-ver-sity of Toronto. [On-line]. Avail
 -able:
  []
 
 
-Overfull \hbox (4.22124pt too wide) in paragraph at lines 908--914
+Overfull \hbox (4.22124pt too wide) in paragraph at lines 906--912
 \T1/ptm/m/n/8 http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neur
 al3.html.
  []
 
-
-Underfull \hbox (badness 6592) in paragraph at lines 923--924
+[4 <./fig-4.jpg> <./fig-5.jpg>]
+Underfull \hbox (badness 6592) in paragraph at lines 921--922
 []\T1/ptm/m/n/8 Patro, G. S. Kr-ishna, and K. Ku-mar, ^^PTi-tle: Nor-mal-iza-ti
 on:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 923--924
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
 \T1/ptm/m/n/8 A Pre-pro-cess-ing stage,^^Q 2015. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 928--929
+Underfull \hbox (badness 10000) in paragraph at lines 926--927
 []\T1/ptm/m/n/8 L. Dorst, ^^PNeu-ral ac-ti-va-tion func-tions,^^Q in \T1/ptm/m/
 it/8 Ap-pli-ca-tions of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 928--929
+Underfull \hbox (badness 10000) in paragraph at lines 926--927
 \T1/ptm/m/it/8 ba-sic math-e-mat-ics in Com-puter Sci-ence\T1/ptm/m/n/8 . [On-l
 ine]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 928--929
+Underfull \hbox (badness 10000) in paragraph at lines 926--927
 \T1/ptm/m/n/8 https://staff.science.uva.nl/l.dorst/math/sigma.pdf. Ac-cessed: N
 ov.
  []
 
-[4 <./fig-4.jpg> <./fig-5.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
+
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
 []\T1/ptm/m/n/8 Q.-Y. Zhu and G.-B. Huang, ^^PEx-treme learn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
 \T1/ptm/m/n/8 ing ma-chines,^^Q 2013. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
 \T1/ptm/m/n/8 http://www.ntu.edu.sg/home/egbhuang/elm_random_hidden_nodes.html.
 
  []
@@ -665,10 +668,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 931--932
 
 ] (./bare_jrnl_comsoc.aux) ) 
 Here is how much of TeX's memory you used:
- 5663 strings out of 493014
- 79052 string characters out of 6137002
- 149617 words of memory out of 5000000
- 9039 multiletter control sequences out of 15000+600000
+ 5664 strings out of 493014
+ 79117 string characters out of 6137002
+ 150617 words of memory out of 5000000
+ 9040 multiletter control sequences out of 15000+600000
  138687 words of font info for 180 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  38i,7n,35p,801b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -683,10 +686,10 @@ c:/texlive/2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb><c:/texlive/2016
 ts/type1/urw/times/utmb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times
 /utmbi8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/t
 exlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_jrnl_comsoc.pdf (5 pages, 449776 bytes).
+Output written on bare_jrnl_comsoc.pdf (5 pages, 402343 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 101 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

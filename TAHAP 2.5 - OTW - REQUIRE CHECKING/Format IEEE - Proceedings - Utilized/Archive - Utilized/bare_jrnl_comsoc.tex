@@ -337,7 +337,7 @@
     \IEEEauthorblockA{Faculty~of~Computer~Science~and~Information~Technology
     \\University~of~Sumatera~Utara
     \\Medan,~Indonesia
-    \\romi.fadillah@usu.ac.id, 121402071.es@gmail.com, ncha.fadly@usu.ac.id, maya2@usu.ac.id
+    \\121402071.es@gmail.com, romi.fadillah@usu.ac.id, maya2@usu.ac.id
 	}
 }
 
@@ -438,7 +438,7 @@ extreme learning machines (ELM), water quality, Lake Toba, artificial neural net
 % and "HIS" in caps to complete the first word.
 \IEEEPARstart{H}{aro} {\it et al.} \cite{Haro13} \ found that the water in Lake Toba, according to the result of the measurement process done in Haranggaol Horison district of Simalungun regency in North Sumatera province, is described as the water resource containing pollutants, ranging from low to medium level. The waste produced from households, industries, agricultural industries, and public transportations, are the main source of water pollution in Lake Toba. Moreover, the development of water hyacinth population and the waste from river streams flowing into Lake Toba, are also the source of water pollution in Lake Toba.
 
-While the tourism industry develops in North Sumatera, mainly in Lake Toba, the possibility of environmental issues which occured in Lake Toba, mainly the water quality, is increased. The change of water quality will also affect the water ecosystem in Lake Toba. Therefore, a proper water quality assessment is required in order to control water quality in lake Toba.
+While the tourism industry develops in North Sumatra, mainly in Lake Toba, the possibility of environmental issues which occurred in Lake Toba, mainly the water quality, is increased. The change of water quality will also affect the water ecosystem in Lake Toba. Therefore, a proper water quality assessment is required in order to control water quality in lake Toba.
 
 Various method has been implemented to process water quality data. Artificial neural network, which has the same working mechanism with the biological brain, has been implemented in several researches, including screw insertion process \cite{Lara99}, electric system stability monitoring \cite{Popovic98}, and wind turbine \cite{Ata15}.
 
@@ -446,7 +446,7 @@ The main problem of prediction process using artificial neural network is the co
 
 Researches have been done in improving the learning speed of the artificial neural network. Chandra \& Sharma introduce parameterized multilayer perceptron \cite{Chandra14} and parameterized deep neural network \cite{Chandra16} to improve computational time of the artificial neural network. Hinton \& Teh \cite{Hinton06} develop the improved deep belief neural networks, resulting in faster learning speed.
 
-Extreme learning machines (ELM) is one of the methods used to improve computational time in artificial neural network. ELM is proposed by Huang \textit{et al.} \cite{Huang06} ELM is introduced to single hidden layer feedforward neural networks, by randomizing hidden layer neurons using Moore-Penrose inverse. This method results in the improvement of computational time.
+Extreme learning machines (ELM) is one of the methods used to improve computational time in artificial neural network. ELM is proposed by Huang \textit{et al.} \cite{Huang06} ELM is introduced to single hidden layer feed-forward neural networks, by randomizing hidden layer neurons using Moore-Penrose inverse. This method results in the improvement of computational time.
 
 Extreme learning machine has been implemented in various researches. Fu \textit{et al.} \cite{Fu15} implemented extreme learning machine for liver tumor detection, by examining liver CT scan imagery. Pangaribuan \& Suharjito \cite{Pangaribuan14} implemented extreme learning machine for diabetes mellitus diagnosis. Meanwhile, Zhai \& Du \cite{Zhai08} implemented extreme learning machine for vegetation species recognition.
 
@@ -470,7 +470,7 @@ According to Sun \textit{et al.} \cite{Gao14}, extreme learning machines (ELM) r
 
 Extreme learning machines is proposed by Huang \textit{et al.} \cite{Huang06} to increase the calculation speed of artificial neural networks, by randomizing the hidden layer. They stated that the feedforward neural network utilizes slow gradient based learning, which results in longer computational time. The randomization of the hidden layer results in faster computational speed, along with higher processing result accuracy.
 
-A single hidden layer feedforward neural network is defined by \eqref{Eq. 1}:
+A single hidden layer feed-forward neural network is defined by \eqref{Eq. 1}:
 
 \begin{equation}
 f_{n} (x) = \sum_{i=1}^{n} G_{i} (x, a_{i}, b_{i}) * \beta_{i}, a_{i} \in R^d, b_{i}, \beta_{i} \in R\label{Eq. 1}
@@ -517,26 +517,35 @@ This research utilizes water quality data obtained by Rahmat {\it et al.} \cite{
 \label{fig1}
 \end{figure}
 
+Each dataset will be split into two datasets, namely training dataset and testing dataset. The ratio of training and testing dataset used in this research is 60:40. This means 60 \% of the whole dataset will be utilized as training dataset, and the remaining 40 \% will be utilized as testing dataset.
+
 \subsection{General Architecture}
 
-The general architecture of the application is shown by Fig. 2.
-
-\begin{figure}[!th]
+\begin{figure}[H]
 \centering
-\includegraphics[scale=0.4]{ArsitekturUmum-Redesigned.eps}
+\includegraphics[width=0.8\columnwidth,height=60mm]{ArsitekturUmum-Redesigned-Remastered.eps}
 \caption{General Architecture of the Application}
 \label{fig2}
 \end{figure}
 
-The general architecture of the application consists of six steps, which are explained as follows:
+In this section, the steps of water quality assessment process using ELM, will be explained thoroughly, from preprocessing of initial dataset to the result of assessment process. The general architecture of the application, which is described by Fig 2, consists of six steps, which are explained as follows:
 
 \begin{enumerate}
 
-\item Preprocessing stage: The water quality data is recorded by Rahmat {\it et al.} \cite{Rahmat16} by the format shown by Fig 3. The recorded values are separated by semicolon sign, thus needs filterization and normalization. According to Patro {\it et al.} \cite{Patro15} , normalization is a pre-processing stage of the problem sets, by which the data will be scaled by the certain range, in order to enable the algorithm to work.
+\item Preprocessing: The water quality data is recorded by Rahmat {\it et al.} \cite{Rahmat16} by the format shown by Fig 3. The recorded values are separated by semicolon sign, containing parameter measurement result. The measurement recording shows that the value is not always stored in numeric format. Thus, the data need to be preprocessed in order to enable extreme learning machine to perform training and testing process. According to Patro {\it et al.} \cite{Patro15} , normalization is a pre-processing stage of the problem sets, by which the data will be scaled by the certain range, in order to enable the algorithm to work.
 
-Before the data is normalized, the initial dataset have to be filtered by each row, to ensure that the value of the recorded data is a valid numeric data. The result of the filtering process is a new dataset with valid numeric value.
+\begin{figure}[th!]
+\centering
+\includegraphics[width=4cm]{fig-3.jpg}
+\caption{Initial Data Structure \cite{Rahmat16}}
+\label{fig3}
+\end{figure}
 
-The normalization process is performed by using min-max normalization \cite{Patro15} , thus resulting in a dataset with value ranging from -1 to 1, according to \eqref{Eq. 5}:
+The preprocessing process is started by filtering the row of data containing fully numeric values. This will ensure that the dataset utilized in the system is able to be processed. The result of the this step is a dataset with each row containing fully numeric values.
+
+The next step of preprocessing process is filtering the row of data containing normal values. This step is done to ensure that the dataset utilized in the system contains valid data. The result of this step is a dataset with each row containing normal numeric values.
+
+The normalized value calculation is performed from the filtered dataset by using min-max normalization \cite{Patro15} , resulting in a dataset with value ranging from -1 to 1, as described by \eqref{Eq. 5}:
 
 \begin{equation}
 A' = \frac{A - A_{min}}{A_{max} - A_{min}} * (D - C) + C\label{Eq. 5}
@@ -544,15 +553,9 @@ A' = \frac{A - A_{min}}{A_{max} - A_{min}} * (D - C) + C\label{Eq. 5}
 
 where $A'$ refers to the normalized data value of $A$, with the result ranging from $[C, D]$. The result of the normalization process will be used by the extreme learning machine regression engine \cite{Zhu13}.
 
+The result of the preprocessing process is a final training and testing dataset. This datasets will be utilized for training process.
 
-\begin{figure}[!th]
-\centering
-\includegraphics[width=4cm]{fig-3.jpg}
-\caption{Initial Data Structure \cite{Rahmat16}}
-\label{fig3}
-\end{figure}
-
-\item Define the number of hidden neuron: This process will be performed after data normalization process is done. According to Heaton \cite{Heaton08} , the number of hidden neuron has to be defined by using following rules:
+\item Define the neural network characteristic: The number of hidden neurons and the activation function of neurons in the artificial neural neurons is defined in this process. According to Heaton \cite{Heaton08} , the number of hidden neuron has to be defined by using following rules:
 
 \begin{itemize}
 \item the number of hidden neuron ranges from the number of input neuron and the number of output neuron,
@@ -560,9 +563,9 @@ where $A'$ refers to the normalized data value of $A$, with the result ranging f
 \item the number of hidden neuron is not higher than twice the number of input neuron
 \end{itemize}
 
-Various amount of hidden neuron will be implemented in this research for comparation of the prediction result. The number of hidden neuron varies from 1 to 20.
+Various amount of hidden neuron will be implemented in this research for comparison of the prediction result. The number of hidden neuron varies from 1 to 20.
 
-\item Define the activation function: Dorst \cite{Dorst16} defines the activation function is the function implemented in the neuron to determine the state of the neuron in an artificial neural network. In this research, three activation functions will be implemented, respectively sigmoid, sine, and hardlim function, whose result will be compared.
+Dorst \cite{Dorst16} defines the activation function is the function implemented in the neuron to determine the state of the neuron in an artificial neural network. In this research, four activation functions will be implemented, respectively sigmoid, sine, cosine, and hard limit function, whose result of assessment will be compared.
 
 \item Training process: The training process is a process performed in artificial neural network implementation. The training process is performed by using extreme learning machine in the following steps:
 
@@ -586,9 +589,9 @@ The output of the methodology in this research is a graph representing the resul
 
 The process of water quality prediction is done through combination of Python and MATLAB environment. The data normalization process is done through Python environment, while the water quality prediction process is performed through MATLAB environment. The interface of the system is shown in Fig 4.
 
-\begin{figure}[!th]
+\begin{figure}[H]
 \centering
-\includegraphics[scale=0.3]{fig-4.jpg}
+\includegraphics[width=0.8\columnwidth, height=30mm]{fig-4.jpg}
 \caption{The Appearance of the System}
 \label{fig4}
 \end{figure}
@@ -602,7 +605,7 @@ To perform the water quality prediction process, the training data and testing d
 \label{fig5}
 \end{figure}
 
-The result shown that the number of hidden neurons applied in training process will affect the accuracy of the testing process. The smaller number of hidden neurons will result in relatively higher error rate, as shown in Table I. The experiment is performed using file data3\_train.txt as training dataset, data3\_test.txt as testing dataset, and sine function as activation function.
+The result shown that the number of hidden neurons applied in training process will affect the accuracy of the testing process. The smaller number of hidden neurons will result in relatively higher error rate, as shown in Table I. The experiment is performed using a training dataset consists of 3583 rows of data, a testing dataset consists of 3582 rows of data, and sine function as activation function.
 
 \begin{table}[ht]
 
@@ -613,7 +616,7 @@ The result shown that the number of hidden neurons applied in training process w
 
 \begin{adjustbox}{max width=\columnwidth}
 
-\begin{tabular}{*{14}{|c|c|c|c|c}}
+\begin{tabular}{*{12}{|c|c|c|c|c}}
 
 \hline
 Number of hidden neurons & Epoch & Training error (RMSE) & Testing error (RMSE) & Computation Time (s) \\
@@ -639,8 +642,6 @@ Number of hidden neurons & Epoch & Training error (RMSE) & Testing error (RMSE) 
 \end{adjustbox}
 
 \end{table}
-
-
 
 % needed in second column of first page if using \IEEEpubid
 %\IEEEpubidadjcol
@@ -744,9 +745,9 @@ Number of hidden neurons & Epoch & Training error (RMSE) & Testing error (RMSE) 
 % \fnbelowfloat command of the stfloats package.
 
 \section{Conclusion}
-The water quality prediction is done by implementing extreme learning machines (ELM), based on the water quality data recorded by Rahmat {\it et al.} \cite{Rahmat16} , by applying different variations of activation functions and number of hidden neurons. The experiment shows that the accuracy rate of the water quality assessment using ELM correlates with the number of hidden neurons and activation functions.
+The water quality prediction is done by implementing extreme learning machines (ELM), based on the water quality data recorded by Rahmat {\it et al.} \cite{Rahmat16} , by applying different variations of activation functions and number of hidden neurons. The experiment shows that the accuracy rate of the water quality assessment using ELM correlates with the number of hidden neurons and activation functions. The experiment also shows that the accuracy rate of the water quality assessment using ELM correlates with the activation function utilized in the process.
 
-
+In the future, more activation functions is suggested to ...
 
 % if have a single appendix:
 %\appendix[Proof of the Zonklar Equations]
