@@ -563,7 +563,7 @@ The result of the preprocessing process is a final training and testing dataset.
 \item the number of hidden neuron is not higher than twice the number of input neuron
 \end{itemize}
 
-Various amount of hidden neuron will be implemented in this research for comparison of the prediction result. The number of hidden neuron varies from 1 to 20.
+Various amount of hidden neuron will be implemented in this research for comparison of the assessment result. The number of hidden neuron varies from 1 to 20.
 
 Dorst \cite{Dorst16} defines the activation function is the function implemented in the neuron to determine the state of the neuron in an artificial neural network. In this research, four activation functions will be implemented, respectively sigmoid, sine, cosine, and hard limit function, whose result of assessment will be compared.
 
@@ -577,9 +577,15 @@ Dorst \cite{Dorst16} defines the activation function is the function implemented
 
 The result of the training process is an artificial neural network with $i$ hidden neurons, available to perform prediction process. The performance of the artificial neural network will be tested in testing process.
 
-\item Testing process: The testing process is performed after the training process is done. The testing process is performed to obtain the result of training process. The testing data is provided in performing the testing process.
+\item Testing process: The testing process is performed after the training process is done. The testing process is performed to obtain the result of training process. The testing data is provided to the system in order to start the testing process.
 
 \end{enumerate}
+
+The training and testing process returns the accuracy rate, defined in RMSE value. The RMSE value of the training and testing process is calculated by using \eqref{Eq. 6}:
+
+\begin{equation}
+RMSE_{i} = \sqrt{\frac{1}{n} \sum_{1}^{n} (y_i - y_i)^{2}\label{Eq. 6}
+\end{equation}
 
 The output of the methodology in this research is a graph representing the result of prediction process by the extreme learning machine, followed by the root mean square error and the calculation time of the result.
 

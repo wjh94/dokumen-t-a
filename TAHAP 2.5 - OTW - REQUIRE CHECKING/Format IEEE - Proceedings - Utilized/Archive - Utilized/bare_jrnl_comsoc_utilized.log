@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.8)  8 FEB 2017 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.8)  8 FEB 2017 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,82 +591,77 @@ Package pdftex.def Info: fig-3.jpg used on input line 539.
 <fig-4.jpg, id=52, 661.72218pt x 542.77782pt>
 File: fig-4.jpg Graphic file (type jpg)
  <use fig-4.jpg>
-Package pdftex.def Info: fig-4.jpg used on input line 594.
+Package pdftex.def Info: fig-4.jpg used on input line 600.
 (pdftex.def)             Requested size: 201.59778pt x 85.35544pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3 <./fig-3.jpg>] <fig-5.jpg, id=56, 603.75563pt x 496.10344pt>
+ [3 <./fig-3.jpg>] <fig-5.jpg, id=56, 603.75563pt x 496.10344pt>
 File: fig-5.jpg Graphic file (type jpg)
-
-<use fig-5.jpg>
-Package pdftex.def Info: fig-5.jpg used on input line 603.
+ <use fig-5.jpg>
+Package pdftex.def Info: fig-5.jpg used on input line 609.
 (pdftex.def)             Requested size: 150.93854pt x 124.02554pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 901--907
+Underfull \hbox (badness 10000) in paragraph at lines 907--913
 []\T1/ptm/m/n/8 E. Re-ing-nold and J. Nightin-gale, ^^PTrain-ing an ar-ti-fi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 901--907
+Underfull \hbox (badness 10000) in paragraph at lines 907--913
 \T1/ptm/m/n/8 cial neu-ral net-work,^^Q in \T1/ptm/m/it/8 Ar-ti-fi-cial Neu-ral
  Net-works Tech-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 901--907
+Underfull \hbox (badness 10000) in paragraph at lines 907--913
 \T1/ptm/m/it/8 nol-ogy\T1/ptm/m/n/8 , Uni-ver-sity of Toronto. [On-line]. Avail
 -able:
  []
 
 
-Overfull \hbox (4.22124pt too wide) in paragraph at lines 901--907
+Overfull \hbox (4.22124pt too wide) in paragraph at lines 907--913
 \T1/ptm/m/n/8 http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neur
 al3.html.
  []
 
-
-Underfull \hbox (badness 6592) in paragraph at lines 916--917
+[4 <./fig-4.jpg> <./fig-5.jpg>]
+Underfull \hbox (badness 6592) in paragraph at lines 922--923
 []\T1/ptm/m/n/8 Patro, G. S. Kr-ishna, and K. Ku-mar, ^^PTi-tle: Nor-mal-iza-ti
 on:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 916--917
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
 \T1/ptm/m/n/8 A Pre-pro-cess-ing stage,^^Q 2015. [On-line]. Avail-able:
  []
 
-[4 <./fig-4.jpg> <./fig-5.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 921--922
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
 []\T1/ptm/m/n/8 L. Dorst, ^^PNeu-ral ac-ti-va-tion func-tions,^^Q in \T1/ptm/m/
 it/8 Ap-pli-ca-tions of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--922
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
 \T1/ptm/m/it/8 ba-sic math-e-mat-ics in Com-puter Sci-ence\T1/ptm/m/n/8 . [On-l
 ine]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--922
+Underfull \hbox (badness 10000) in paragraph at lines 927--928
 \T1/ptm/m/n/8 https://staff.science.uva.nl/l.dorst/math/sigma.pdf. Ac-cessed: N
 ov.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 924--925
+Underfull \hbox (badness 10000) in paragraph at lines 930--931
 []\T1/ptm/m/n/8 Q.-Y. Zhu and G.-B. Huang, ^^PEx-treme learn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 924--925
+Underfull \hbox (badness 10000) in paragraph at lines 930--931
 \T1/ptm/m/n/8 ing ma-chines,^^Q 2013. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 924--925
+Underfull \hbox (badness 10000) in paragraph at lines 930--931
 \T1/ptm/m/n/8 http://www.ntu.edu.sg/home/egbhuang/elm_random_hidden_nodes.html.
 
  []
@@ -675,10 +670,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 924--925
 
 ] (./bare_jrnl_comsoc_utilized.aux) ) 
 Here is how much of TeX's memory you used:
- 5664 strings out of 493014
- 80237 string characters out of 6133352
- 150617 words of memory out of 5000000
- 9040 multiletter control sequences out of 15000+600000
+ 5665 strings out of 493014
+ 80244 string characters out of 6133352
+ 150625 words of memory out of 5000000
+ 9041 multiletter control sequences out of 15000+600000
  138687 words of font info for 180 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  38i,7n,35p,808b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -695,7 +690,7 @@ f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fon
 ts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/
 utmri8a.pfb>
-Output written on bare_jrnl_comsoc_utilized.pdf (5 pages, 402165 bytes).
+Output written on bare_jrnl_comsoc_utilized.pdf (5 pages, 402860 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
