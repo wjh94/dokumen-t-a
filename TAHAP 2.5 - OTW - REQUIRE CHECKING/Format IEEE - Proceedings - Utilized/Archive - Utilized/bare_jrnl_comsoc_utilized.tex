@@ -446,7 +446,7 @@ The main problem of prediction process using artificial neural network is the co
 
 Researches have been done in improving the learning speed of the artificial neural network. Chandra \& Sharma introduce parameterized multilayer perceptron \cite{Chandra14} and parameterized deep neural network \cite{Chandra16} to improve computational time of the artificial neural network. Hinton \& Teh \cite{Hinton06} develop the improved deep belief neural networks, resulting in faster learning speed.
 
-Extreme learning machines (ELM) is one of the methods used to improve computational time in artificial neural network. ELM is proposed by Huang \textit{et al.} \cite{Huang06} ELM is introduced to single hidden layer feed-forward neural networks, by randomizing hidden layer neurons using Moore-Penrose inverse. This method results in the improvement of computational time.
+Extreme learning machines (ELM) is one of the methods used to improve computational time in artificial neural network. ELM is proposed by Huang \textit{et al.} \cite{Huang06} to improve the performance of single hidden layer feed-forward neural networks (SLFNs), by randomizing hidden layer neurons using Moore-Penrose inverse. This method results in the improvement of computational time.
 
 Extreme learning machine has been implemented in various researches. Fu \textit{et al.} \cite{Fu15} implemented extreme learning machine for liver tumor detection, by examining liver CT scan imagery. Pangaribuan \& Suharjito \cite{Pangaribuan14} implemented extreme learning machine for diabetes mellitus diagnosis. Meanwhile, Zhai \& Du \cite{Zhai08} implemented extreme learning machine for vegetation species recognition.
 
@@ -532,12 +532,12 @@ In this section, the steps of water quality assessment process using ELM, will b
 
 \begin{enumerate}
 
-\item Preprocessing: The water quality data is recorded by Rahmat {\it et al.} \cite{Rahmat16} by the format shown by Fig 3. The recorded values are separated by semicolon sign, containing parameter measurement result. The measurement recording shows that the value is not always stored in numeric format. Thus, the data need to be preprocessed in order to enable extreme learning machine to perform training and testing process. According to Patro {\it et al.} \cite{Patro15} , normalization is a pre-processing stage of the problem sets, by which the data will be scaled by the certain range, in order to enable the algorithm to work.
+\item Preprocessing: The water quality data is recorded by Rahmat {\it et al.} \cite{Rahmat16} by the format shown by Fig 3. The recorded values are separated by semicolon sign, containing parameter measurement result. The measurement recording shows that the value is not always stored in numeric format. Thus, the data need to be preprocessed in order to enable extreme learning machine to perform training and testing process. According to Patro {\it et al.} \cite{Patro15} , preprocessing is the first step of data processing, where in this process, the data is processed to the certain value and format. The result of the preprocessing process will be utilized for the next process.
 
 \begin{figure}[th!]
 \centering
-\includegraphics[width=4cm]{fig-3.jpg}
-\caption{Initial Data Structure \cite{Rahmat16}}
+\includegraphics[width=0.8\columnwidth, height=60mm]{fig-3.jpg}
+\caption{Initial Data Structure Obtained from \cite{Rahmat16}}
 \label{fig3}
 \end{figure}
 
@@ -567,7 +567,7 @@ Various amount of hidden neuron will be implemented in this research for compari
 
 Dorst \cite{Dorst16} defines the activation function is the function implemented in the neuron to determine the state of the neuron in an artificial neural network. In this research, four activation functions will be implemented, respectively sigmoid, sine, cosine, and hard limit function, whose result of assessment will be compared.
 
-\item Training process: The training process is a process performed in artificial neural network implementation. The training process is performed by using extreme learning machine in the following steps:
+\item Training process: The training process is the process performed in artificial neural network implementation. The training process is performed by using extreme learning machine by executing the following steps:
 
 \begin{itemize}
 \item Initialize the hidden layer matrix $H$, consisting of input weights and neuron biases;
@@ -579,17 +579,17 @@ The result of the training process is an artificial neural network with $i$ hidd
 
 \item Testing process: The testing process is performed after the training process is done. The testing process is performed to obtain the result of training process. The testing data is provided in performing the testing process.
 
-\item Verification process: The verification process is performed after the testing process is done. The verification process is performed to ensure that the result generated in testing process conforms with the water quality index standard.
-
 \end{enumerate}
 
 The output of the methodology in this research is a graph representing the result of prediction process by the extreme learning machine, followed by the root mean square error and the calculation time of the result.
 
 \section{Experiment and Result}
 
-The process of water quality prediction is done through combination of Python and MATLAB environment. The data normalization process is done through Python environment, while the water quality prediction process is performed through MATLAB environment. The interface of the system is shown in Fig 4.
+This section describes the result of experiments done in this research. In this experiment, testing dataset is utilized to perform the experiment. The Graphical User Interface (GUI) from the system built in this research, is shown by Fig 4.
 
-\begin{figure}[H]
+%The process of water quality prediction is done through combination of Python and MATLAB environment. The data normalization process is done through Python environment, while the water quality prediction process is performed through MATLAB environment. The interface of the system is shown in Fig 4.
+
+\begin{figure}[h!]
 \centering
 \includegraphics[width=0.8\columnwidth, height=30mm]{fig-4.jpg}
 \caption{The Appearance of the System}
@@ -619,21 +619,16 @@ The result shown that the number of hidden neurons applied in training process w
 \begin{tabular}{*{12}{|c|c|c|c|c}}
 
 \hline
-Number of hidden neurons & Epoch & Training error (RMSE) & Testing error (RMSE) & Computation Time (s) \\
+Number of & Epoch & Training error & Testing error & Computation Time\\
+hidden neurons &  & (RMSE) & (RMSE) & (s) \\
 	\hline
 	
 6 & 81 & 0.09825 & 0.04968 & 21.67 \\
-\hline
 7 & 154 & 0.09383 & 0.04556 & 41.41 \\
-\hline
 8 & 150 & 0.08793 & 0.03725 & 39.95 \\
-\hline
 9 & 19 & 0.09205 & 0.04649 & 5.094 \\
-\hline
 10 & 38 & 0.08993 & 0.04733 & 10.17 \\
-\hline
 11 & 108 & 0.09087 & 0.04348 & 28.98 \\
-\hline
 12 & 198 & 0.08047 & 0.03744 & 53.13 \\
 \hline
 
