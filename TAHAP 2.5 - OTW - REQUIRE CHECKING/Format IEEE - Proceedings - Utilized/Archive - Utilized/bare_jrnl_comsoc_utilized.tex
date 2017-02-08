@@ -537,7 +537,7 @@ In this section, the steps of water quality assessment process using ELM, will b
 \begin{figure}[th!]
 \centering
 \includegraphics[width=0.8\columnwidth, height=60mm]{fig-3.jpg}
-\caption{Initial Data Structure Obtained from \cite{Rahmat16}}
+\caption{Initial Data Structure Obtained By \cite{Rahmat16}}
 \label{fig3}
 \end{figure}
 
@@ -584,8 +584,11 @@ The result of the training process is an artificial neural network with $i$ hidd
 The training and testing process returns the accuracy rate, defined in RMSE value. The RMSE value of the training and testing process is calculated by using \eqref{Eq. 6}:
 
 \begin{equation}
-RMSE_{i} = \sqrt{\frac{1}{n} \sum_{1}^{n} (y_i - y_i)^{2}\label{Eq. 6}
+RMSE_{i} = \sqrt{\frac{1}{n} \sum_{1}^{n} (y_i - \hat{\mathrm{y}}_i)^{2}}
+	\label{Eq. 6}
 \end{equation}
+
+where $RMSE_{i}$ is the root mean square error rate of the training or testing process, $\hat{\mathrm{y}}$  and $y$ is the prediction and measurement result.
 
 The output of the methodology in this research is a graph representing the result of prediction process by the extreme learning machine, followed by the root mean square error and the calculation time of the result.
 
@@ -597,7 +600,7 @@ This section describes the result of experiments done in this research. In this 
 
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.8\columnwidth, height=30mm]{fig-4.jpg}
+\includegraphics[width=0.8\columnwidth, height=50mm]{fig-4.jpg}
 \caption{The Appearance of the System}
 \label{fig4}
 \end{figure}
@@ -643,6 +646,8 @@ hidden neurons &  & (RMSE) & (RMSE) & (s) \\
 \end{adjustbox}
 
 \end{table}
+
+The accuracy rate also correlates to 
 
 % needed in second column of first page if using \IEEEpubid
 %\IEEEpubidadjcol
