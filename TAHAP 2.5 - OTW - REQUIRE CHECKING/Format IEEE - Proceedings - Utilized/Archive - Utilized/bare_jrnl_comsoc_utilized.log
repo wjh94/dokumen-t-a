@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  27 FEB 2017 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.8)  8 MAR 2017 00:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,11 +560,11 @@ File: map_data_acquisition.jpg Graphic file (type jpg)
 Package pdftex.def Info: map_data_acquisition.jpg used on input line 515.
 (pdftex.def)             Requested size: 94.25044pt x 86.27078pt.
 Package epstopdf Info: Source file: <ArsitekturUmum-Redesigned-Remastered.eps>
-(epstopdf)                    date: 2017-02-24 12:57:53
-(epstopdf)                    size: 84674 bytes
+(epstopdf)                    date: 2017-03-02 15:11:17
+(epstopdf)                    size: 86612 bytes
 (epstopdf)             Output file: <ArsitekturUmum-Redesigned-Remastered-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2017-02-24 12:57:53
+(epstopdf)                    date: 2017-03-02 15:11:17
 (epstopdf)                    size: 25564 bytes
 (epstopdf)             Command: <repstopdf --outfile=ArsitekturUmum-Redesigned-
 Remastered-eps-converted-to.pdf ArsitekturUmum-Redesigned-Remastered.eps>
