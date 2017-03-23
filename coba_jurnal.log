@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.8)  18 MAR 2017 14:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.8)  18 MAR 2017 17:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**bare_jrnl_comsoc_utilized.tex
-(./bare_jrnl_comsoc_utilized.tex
+**coba_jurnal.tex
+(./coba_jurnal.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(./IEEEtran.cls
+(/usr/local/texlive/2016/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -391,84 +391,84 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \ALC@tlm=\skip47
 \algorithmicindent=\skip48
 )
-(./bare_jrnl_comsoc_utilized.aux)
-\openout1 = `bare_jrnl_comsoc_utilized.aux'.
+(./coba_jurnal.aux)
+\openout1 = `coba_jurnal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 314.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 31
-4.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 68.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 68
+.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 314.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 314.
-LaTeX Font Info:    ... okay on input line 314.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 314.
-LaTeX Font Info:    ... okay on input line 314.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 314.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 31
-4.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 68.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 68
+.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 314.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 314.
-LaTeX Font Info:    ... okay on input line 314.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 314.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 314
-.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 68.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 68.
+
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 314.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 314.
-LaTeX Font Info:    ... okay on input line 314.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 
 -- Verifying Times compatible math font.
 -- newtxmath loaded, OK.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 314.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 68.
 -- Lines per column: 58 (exact).
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -526,177 +526,91 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 4
-75.
+LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 1
+11.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 475
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 111
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 475
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 111
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 475
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 111
 .
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-<map_data_acquisition.jpg, id=10, 471.26062pt x 431.36156pt>
-File: map_data_acquisition.jpg Graphic file (type jpg)
-
-<use map_data_acquisition.jpg>
-Package pdftex.def Info: map_data_acquisition.jpg used on input line 515.
-(pdftex.def)             Requested size: 94.25044pt x 86.27078pt.
 Package epstopdf Info: Source file: <ArsitekturUmum-Redesigned-Remastered.eps>
-(epstopdf)                    date: 2017-03-02 15:11:17
+(epstopdf)                    date: 2017-03-02 15:11:16
 (epstopdf)                    size: 86612 bytes
 (epstopdf)             Output file: <ArsitekturUmum-Redesigned-Remastered-eps-c
 onverted-to.pdf>
-(epstopdf)                    date: 2017-03-02 15:11:17
+(epstopdf)                    date: 2017-03-18 14:01:24
 (epstopdf)                    size: 25564 bytes
 (epstopdf)             Command: <repstopdf --outfile=ArsitekturUmum-Redesigned-
 Remastered-eps-converted-to.pdf ArsitekturUmum-Redesigned-Remastered.eps>
-(epstopdf)             \includegraphics on input line 526.
+(epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 
-<ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf, id=11, 415.5525pt x
- 599.23875pt>
+<ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf, id=1, 415.5525pt x 
+599.23875pt>
 File: ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf>
 Package pdftex.def Info: ArsitekturUmum-Redesigned-Remastered-eps-converted-to.
-pdf used on input line 526.
-(pdftex.def)             Requested size: 201.59978pt x 170.71167pt.
+pdf used on input line 152.
+(pdftex.def)             Requested size: 157.84818pt x 227.62204pt.
 
-[2 <./map_data_acquisition.jpg> <./ArsitekturUmum-Redesigned-Remastered-eps-con
-verted-to.pdf>] <fig-3.jpg, id=51, 216.81pt x 446.41782pt>
-File: fig-3.jpg Graphic file (type jpg)
- <use fig-3.jpg>
-Package pdftex.def Info: fig-3.jpg used on input line 539.
-(pdftex.def)             Requested size: 201.61136pt x 170.71678pt.
-
-[3 <./fig-3.jpg>] <fig-4.jpg, id=56, 661.72218pt x 542.77782pt>
-File: fig-4.jpg Graphic file (type jpg)
-
-<use fig-4.jpg>
-Package pdftex.def Info: fig-4.jpg used on input line 603.
-(pdftex.def)             Requested size: 201.59778pt x 142.26183pt.
- <fig-5.jpg, id=57, 603.75563pt x 496.10344pt>
-File: fig-5.jpg Graphic file (type jpg)
- <use fig-5.jpg>
-Package pdftex.def Info: fig-5.jpg used on input line 612.
-(pdftex.def)             Requested size: 150.93854pt x 124.02554pt.
-
-[4 <./fig-4.jpg> <./fig-5.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 912--918
-[]\T1/ptm/m/n/8 E. Re-ing-nold and J. Nightin-gale, ^^PTrain-ing an ar-ti-fi-
- []
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 912--918
-\T1/ptm/m/n/8 cial neu-ral net-work,^^Q in \T1/ptm/m/it/8 Ar-ti-fi-cial Neu-ral
- Net-works Tech-
- []
+]
+<initial-structure.jpg, id=19, 216.81pt x 446.41782pt>
+File: initial-structure.jpg Graphic file (type jpg)
 
+<use initial-structure.jpg>
+Package pdftex.def Info: initial-structure.jpg used on input line 163.
+(pdftex.def)             Requested size: 201.61136pt x 142.26399pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 912--918
-\T1/ptm/m/it/8 nol-ogy\T1/ptm/m/n/8 , Uni-ver-sity of Toronto. [On-line]. Avail
--able:
- []
+Underfull \vbox (badness 1584) has occurred while \output is active []
 
-
-Overfull \hbox (4.22124pt too wide) in paragraph at lines 912--918
-\T1/ptm/m/n/8 http://www.psych.utoronto.ca/users/reingold/courses/ai/cache/neur
-al3.html.
- []
-
-
-Underfull \hbox (badness 6592) in paragraph at lines 927--928
-[]\T1/ptm/m/n/8 Patro, G. S. Kr-ishna, and K. Ku-mar, ^^PTi-tle: Nor-mal-iza-ti
-on:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 927--928
-\T1/ptm/m/n/8 A Pre-pro-cess-ing stage,^^Q 2015. [On-line]. Avail-able:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 932--933
-[]\T1/ptm/m/n/8 L. Dorst, ^^PNeu-ral ac-ti-va-tion func-tions,^^Q in \T1/ptm/m/
-it/8 Ap-pli-ca-tions of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 932--933
-\T1/ptm/m/it/8 ba-sic math-e-mat-ics in Com-puter Sci-ence\T1/ptm/m/n/8 . [On-l
-ine]. Avail-able:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 932--933
-\T1/ptm/m/n/8 https://staff.science.uva.nl/l.dorst/math/sigma.pdf. Ac-cessed: N
-ov.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 935--936
-[]\T1/ptm/m/n/8 Q.-Y. Zhu and G.-B. Huang, ^^PEx-treme learn-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 935--936
-\T1/ptm/m/n/8 ing ma-chines,^^Q 2013. [On-line]. Avail-able:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 935--936
-\T1/ptm/m/n/8 http://www.ntu.edu.sg/home/egbhuang/elm_random_hidden_nodes.html.
-
- []
-
-[5
-
-] (./bare_jrnl_comsoc_utilized.aux) ) 
+ [2 <./ArsitekturUmum-Redesigned-Remastered-eps-converted-to.pdf> <./initial-st
+ructure.jpg>] (./coba_jurnal.aux) ) 
 Here is how much of TeX's memory you used:
- 5665 strings out of 493014
- 80244 string characters out of 6133352
- 149625 words of memory out of 5000000
- 9041 multiletter control sequences out of 15000+600000
- 138687 words of font info for 180 fonts, out of 8000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 38i,7n,35p,808b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/
-enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/d
-vips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/tex-gyr
-e/qtmr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rntxmi.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/newtx/txex-bar.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
-pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/t
-imes/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri
-8a.pfb>
-Output written on bare_jrnl_comsoc_utilized.pdf (5 pages, 408059 bytes).
+ 5599 strings out of 493014
+ 79480 string characters out of 6133352
+ 146768 words of memory out of 5000000
+ 8981 multiletter control sequences out of 15000+600000
+ 127403 words of font info for 161 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,5n,35p,871b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/en
+c/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvi
+ps/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/tex-gyre/
+qtmr.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rntxmi.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/ut
+mri8a.pfb>
+Output written on coba_jurnal.pdf (2 pages, 179709 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
